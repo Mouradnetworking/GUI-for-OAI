@@ -1,5 +1,5 @@
 # GUI-for-OAI
-This Python GUI manages 5G simulation components: start/stop gNB and UE with RF simulator, Docker container control, configuration file, and GitLab access.
+This Python GUI manages 5G simulation components: start/stop gNB and UE with RF simulator, Docker container control, configuration file, and GitHub access.
 
 ![Gui_made_by_harima](https://github.com/Mouradnetworking/GUI-for-OAI/assets/155429869/0a95bb3f-9062-40e6-8d80-f3dd7727d393)
 

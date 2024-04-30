@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Youtube demo](#Youtube demo)
+- [Youtube](#Youtube)
 - [Features](#Features)
 - [Usage](#usage)
 - [Requirements](#Requirements)
@@ -12,7 +12,7 @@ This Python GUI manages 5G simulation components: start/stop gNB and UE with RF 
 
 ![Gui_made_by_harima](https://github.com/Mouradnetworking/GUI-for-OAI/assets/155429869/0a95bb3f-9062-40e6-8d80-f3dd7727d393)
 
-## Youtube demo
+## Youtube
 https://www.youtube.com/watch?v=SOSn9TCOz3o
 ## 5G Environment GUI
 

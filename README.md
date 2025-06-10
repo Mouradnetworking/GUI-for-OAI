@@ -8,9 +8,11 @@
 - [License](#license)
 
 ## Overview
-This Python GUI manages 5G simulation components: start/stop gNB and UE with RF simulator, Docker container control, configuration file, and GitHub access.
+This Python GUI manages 5G simulation components: start/stop gNB and UE with RF simulator, SDR, Docker container control, configuration file, and GitHub access.
 
 ![Gui_made_by_harima](https://github.com/Mouradnetworking/GUI-for-OAI/assets/155429869/0a95bb3f-9062-40e6-8d80-f3dd7727d393)
+![Screenshot 2025-06-10 135536](https://github.com/user-attachments/assets/eb5f5cb2-4c9d-4072-aed6-b2d4dd37d738)
+
 
 ## Youtube
 https://www.youtube.com/watch?v=SOSn9TCOz3o
@@ -20,9 +22,9 @@ This repository contains a graphical user interface (GUI) developed in Python fo
 
 ## Features
 
-- **Start the gNB and UE with RF simulator:** Start the gNB (base station) and UE (user equipment) components of the 5G simulation environment with RF simulator support.
-- **Start/Stop Docker containers:** Start and stop Docker containers for additional components of the simulation environment.
-- **Additional options:** Access additional options, including opening relevant documentation on GitLab and access to the configuration file.
+- **Start the gNB and UE with RF simulator and USRP:** Start the gNB (base station) and UE (user equipment).
+- **Start/Stop Docker containers:** Start and stop Docker containers for additional components of the testbed.
+- **Additional options:** Access additional options, checking logs, including opening relevant documentation on GitLab and access to the configuration file.
 
 ## Requirements
 

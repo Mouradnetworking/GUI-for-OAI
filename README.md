@@ -1,7 +1,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Youtube](#Youtube)
 - [Features](#Features)
 - [Usage](#usage)
 - [Requirements](#Requirements)
@@ -13,8 +12,6 @@ This Python GUI manages 5G simulation components: start/stop gNB and UE with RF 
 ![Screenshot 2025-06-10 135536](https://github.com/user-attachments/assets/eb5f5cb2-4c9d-4072-aed6-b2d4dd37d738)
 
 
-## Youtube
-https://www.youtube.com/watch?v=SOSn9TCOz3o
 ## 5G Environment GUI
 
 This repository contains a graphical user interface (GUI) developed in Python for controlling and managing various components of a 5G environment.
